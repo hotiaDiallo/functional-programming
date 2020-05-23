@@ -2,3 +2,4 @@
 
 ## Functional Interfaces
 - Function
+- Consumer

@@ -4,3 +4,4 @@
 - Function
 - Consumer
 - Predicate
+- Supplier

@@ -1,4 +1,4 @@
-package com.ibrahima;
+package functionalinterface;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

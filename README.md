@@ -5,3 +5,6 @@
 - Consumer
 - Predicate
 - Supplier
+
+- Streams
+- Optionals
